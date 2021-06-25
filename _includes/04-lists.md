@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+Lista moich ulubionych psów:
+1. Mój pies
+2. Inne psy
